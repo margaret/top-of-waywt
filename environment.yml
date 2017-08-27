@@ -1,0 +1,4 @@
+name: waywt
+dependencies:
+  - python=3.5
+  - jupyter=1.0.0
