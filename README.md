@@ -32,6 +32,8 @@ export REDDIT_USER=your_username
 
 ### Run the script
 
+(The script being [Top of WAYWT.ipynb](https://github.com/margaret/top-of-waywt/blob/master/Top%20of%20WAYWT.ipynb).)
+
 In the cell that says
 
 ```
